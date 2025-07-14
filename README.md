@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rasala Sushmitha</h1>
 <h3 align="center">MERN Stack Engineer | Software Developer | Azure Enthusiast</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs7YsB5Ac9fAFyFy/giphy.gif" width="200" height="200">
-</p>
 ### 💻 About Me
 🎓 I'm a 4th-year IT student at Malla Reddy Engineering College  
 🔭 Currently working on a **Blockchain-based Fraud Detection System** and an **AI Multimodal Platform for Predictive Chemical Hazard Analysis**  
