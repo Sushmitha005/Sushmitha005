@@ -23,6 +23,8 @@
 ![OS](https://img.shields.io/badge/Operating%20Systems-grey?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/Database%20Management-red?style=for-the-badge)
 ![CN](https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-green?style=for-the-badge)
+
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
