@@ -52,7 +52,7 @@
   Used parameters like pH, DO, BOD, and Nitrate to compute WQI scores and classify water as suitable or unsuitable.  
   Aimed to support sustainable water use for irrigation and drinking purposes.
 
-- 🅿️ **Parking System** *(HTML, CSS, JavaScript)*  
+🅿️ **Parking System** *(HTML, CSS, JavaScript)*  
   *Oct 2023 – Nov 2023*  
   Developed a responsive web application to help users locate available parking spots nearby.  
   Implemented real-time parking slot updates, basic search functionality, and a user-friendly interface.  
